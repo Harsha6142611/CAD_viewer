@@ -1,0 +1,6 @@
+Flask==3.0.2
+flask-cors==4.0.0
+python-dotenv==1.0.1
+Werkzeug==3.0.1
+numpy==1.26.4  # For handling 3D model data
+trimesh==4.0.5  # For processing 3D models (STL, OBJ) 
